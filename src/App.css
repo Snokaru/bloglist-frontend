@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.error {
+  background-color: grey;
+  color: red;
+  outline: black;
+}
+
+.success {
+  background-color: grey;
+  color: green;
+  outline: black;
+}
